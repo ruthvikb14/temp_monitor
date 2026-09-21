@@ -17,6 +17,8 @@ cd cpp && make test && make run
 
 Requires gcc/g++ and make.
 
+The original task description is in [docs/assessment.pdf](docs/assessment.pdf).
+
 ## Behaviour
 
 | LED | Condition |
